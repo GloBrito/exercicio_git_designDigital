@@ -1,0 +1,7 @@
+Aula de Design Digital - Git, Guthub
+
+Aula demonstrativa para entender o funcionamento do Git.
+
+git config --local user.name "userName" Comando que configura as informações do usuário
+
+git confir --local 
