@@ -4,4 +4,10 @@ Aula demonstrativa para entender o funcionamento do Git.
 
 git config --local user.name "userName" Comando que configura as informações do usuário
 
-git confir --local 
+git confir --local e-mail ""email@email.com" Comando para definir seu nome de usuário do Git
+
+git config -l  O comando git config é a função conveniente usada para definir valores de configuração do Git em projetos de nível global ou local. Esses níveis de configuração correspondem aos arquivos de texto do . gitconfig . Executar o git config modifica arquivos de texto de configuração.
+
+Autenticação para o github -- settings -- tokens(classic) --- new token -- note (name) --- data de expiração (90 dias) --- repo -- marca todas as opções --- Generetee token 
+
+Máquina -- Gerenciador de credenciais Windows --- credenciais genéricas --- adcionar credencial genérica ---- colar token na senha ----
