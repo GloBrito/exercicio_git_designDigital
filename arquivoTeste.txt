@@ -10,4 +10,4 @@ git config -l  O comando git config é a função conveniente usada para definir
 
 Autenticação para o github -- settings -- tokens(classic) --- new token -- note (name) --- data de expiração (90 dias) --- repo -- marca todas as opções --- Generetee token 
 
-Máquina -- Gerenciador de credenciais Windows --- credenciais genéricas --- adcionar credencial genérica ---- colar token na senha ----
+Máquina -- Gerenciador de credenciais Windows --- credenciais genéricas --- adcionar credencial genérica ---- colar token na senha ---
